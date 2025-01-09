@@ -1,0 +1,51 @@
+####################
+#                  #
+# Copia todo esto! #
+#                  #
+####################
+# Hecho con gusto por German Rodriguez Avila
+ 
+ 
+# Objetivo: hacer graficas de barras en r
+# ------------------------------------------------
+# En este ejercicio vamos a:
+# 1. graficas de barras con base graphics
+# 2. graficas de barras con ggplot2
+ 
+# cargando los datos
+ 
+ 
+# viendo los datos
+ 
+ 
+# generando tabla agrupada
+ 
+ 
+# grafica de barras basica
+ 
+ 
+# editando grafica de barras
+ 
+ 
+ 
+ 
+# cargar ggplot2
+# install.packages("ggplot2")
+ 
+ 
+# grafica de barras
+ 
+ 
+ 
+ 
+# guardando grafica en variable
+ 
+ 
+ 
+# stacked bar chart
+ 
+ 
+# dogde bar chart
+ 
+ 
+# stacked + percent barchart
