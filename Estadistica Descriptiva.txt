@@ -1,0 +1,34 @@
+####################
+#                  #
+# Copiar todo esto #
+#                  #
+####################
+# Hecho con gusto por German Rodriguez Avila
+
+#Estadistica descriptiva
+
+#La informacion de la tabla 2.13 es una muestra
+#de los niveles de colesterol tomada de 24
+#empleados de un hospital, los cuales llevaban una dieta americana
+#estandar; estos accedieron a adoptar una dieta vegetariana
+#por el periodo de un mes. Las mediciones del suero de colesterol
+#fueron hechas antes, y un mes despues de adoptar la dieta.
+
+
+#Calcular la media del cambio en los niveles de colesterol?
+
+
+#Calcular la desviacion estandar del cambio en los niveles de colesterol?
+
+#Calcular la mediana del cambio en el colesterol?
+
+#Construya un diagrama de caja de los cambio de colesterol
+
+
+#Nos muestra un sesgo positivo debido a que
+#el cuantil superior esta un poco lejano de la mediana
+#que el cuantil inferior. Esto sugiere que existe
+#mas personas que experimentaron una disminucion en el nivel 
+#de colesterol al adoptar una dieta vegetariana.
+
+# Hecho con gusto por German Rodriguez Avila
