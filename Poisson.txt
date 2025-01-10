@@ -1,0 +1,47 @@
+####################
+#                  #
+# Copiar todo esto #
+#                  #
+####################
+# Hecho con gusto por German Rodriguez Avila
+
+#Distribucion de Poisson en R
+
+#######Enfermedades infecciosas
+
+#Supongamos que el numero de muertes en un periodo
+#de 1 año sigue una distribucion de Poisson y tiene
+#parametros mui= 4.6.
+#Cual es la distribucion de probabilidad del numero de muertes
+#en un periodo de 6 meses?
+# donde lambda es igual a 2.3
+
+
+#Ahora crea una grafica de barras para
+# Observar los datos graficamente
+# Primero creamos una variable x donde indicaremos lo meces:
+x <- 0:15  	#esto asigna a x los valores de 0 a 15
+x          	#muestralo en consola
+lambda <- 2.3 	# agregamos a la variable lambda el valor de 2.3
+
+#asignar a una variable "probabilidad" la formula de Poisson
+
+barplot(probabilidades, names.arg = x,
+        xlab = "Número de Eventos (x)",
+        ylab = "Probabilidad P(X = x)",
+        main = paste("PMF de Poisson (λ =", lambda, ")"),
+        col = ifelse(x > 5, "red", "skyblue")) # Colorea las barras mayores que 5 de rojo
+
+# Añadir una leyenda
+#("topright", legend = c("P(X > 5)", "P(X ≤ 5)"), fill = c("red", "skyblue"))
+
+# Mostrar el valor exacto calculado con ppois
+#prob_mayor_5 <- ppois(5, lambda, lower.tail = FALSE)
+#text(12, max(probabilidades)/2, paste("P(X > 5) =", round(prob_mayor_5, 4))) #Posiciona el texto en el gráfico
+
+#Ahora Cual es la distribucion de probabilidad del numero de muertes
+#en un periodo de 3 meses?
+#donde lambda = 1.15
+
+
+# Hecho con gusto por German Rodriguez Avila
