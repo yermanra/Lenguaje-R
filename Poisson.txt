@@ -40,6 +40,7 @@ legend("topright", legend = c("P(X > 5)", "P(X ≤ 5)"), fill = c("red", "skyblu
 prob_mayor_5 <- ppois(5, lambda, lower.tail = FALSE)
 text(12, max(probabilidades)/2, paste("P(X > 5) =", round(prob_mayor_5, 4))) #Posiciona el texto en el gráfico
 
+#Problema 2
 #Ahora Cual es la distribucion de probabilidad del numero de muertes
 #en un periodo de 3 meses?
 #donde lambda = 1.15
