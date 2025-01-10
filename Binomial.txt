@@ -1,0 +1,39 @@
+####################
+#                  #
+# Copiar todo esto #
+#                  #
+####################
+# Hecho con gusto por German Rodriguez Avila
+
+#Distribucion Binomial
+
+####### Problema 1 "Enfermedades infecciosas"
+
+#Evalue la probabilidad de obtener 2 
+#linfocitos  de 10 globulos blancos,
+#si la probabilidad de que un globulo
+#blanco sea linfocito es de 0.2
+#donde n=10, p=0.2, x=2
+
+
+
+
+# Problema 2 "Enfermedades pulmonares"
+
+#Enfermedades pulmonares. La taza de incidencia nacional en los EU
+#de bronquitis crónica en el primer año de vida es del 5%. Un
+#investigador nota que niños desarrollan bronquitis crónica en el
+#primer año de vida, en 3 de 20 hogares donde los dos padres sufren
+#de bronquitis crónica. Es esta diferencia real o puede ser atribuida a
+#la casualidad? En especial, que tan probable es que niños en 3 o mas
+#hogares, de 20, desarrollen bronquitis crónica, si la probabilidad de
+#desarrollar esta enfermedad en un hogar, en general, es de 0.05?
+
+#donde:
+#n=20, k>=3, p=0.05
+
+
+
+
+
+# Hecho con gusto por German Rodriguez Avila
